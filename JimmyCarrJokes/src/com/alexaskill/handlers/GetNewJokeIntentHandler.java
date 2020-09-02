@@ -35,7 +35,7 @@ public class GetNewJokeIntentHandler implements RequestHandler {
         int i = (int) Math.floor(Math.random() * Jokes.getCount(Jokes.getJokes()));
         String speechText = Jokes.getJokes()[i];
         return input.getResponseBuilder()
-                .withShouldEndSession(true)
+                .withShouldEndSession(false)
                 .withSpeech(speechText)
                 .withSimpleCard("Jokes", speechText)
                 .build();
