@@ -59,7 +59,7 @@ public class Jokes {
             "My son got kicked out of school for letting a girl jerk him off in class.Thats three schools now. Maybe teaching isn't for him.",
             "Its difficult to date when you have OCD. Every time my girlfriend gets turned on, I turn her off again.",
             "If you want to get a girls attention, just compliment them. Like: Wow! You're a fast runner. Almost got away!",
-            "I saw an old woman on the news who's house was flooded. She was standing there, knee deep in water, crying......and I thought thats not helping",
+            "I saw an old woman on the news who's house was flooded. She was standing there, knee deep in water, crying... and I thought thats not helping",
             "My ex wife's star sign was Cancer, quite ironic considering how she died... Eaten by a giant crab",
             "Its very easy to distract a fat person... it's a piece of cake!!!",
             "I saw a travesty wearing a mini skirt, and I thought... That shows a lot of balls.",
