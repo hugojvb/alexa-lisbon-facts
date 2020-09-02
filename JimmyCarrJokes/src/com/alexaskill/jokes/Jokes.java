@@ -43,7 +43,7 @@ public class Jokes {
             "Because of political correctness, you're not meant to say air hostess any more, are you? You're meant to say, if it's a woman, sky waitress, and if it's a man, homosexual. Doesn't really change anything.",
             "My girlfriend recently had a miscarriage…and it was doubly bad because I had to pay for it.",
             "If only Africa had more mosquito nets, then every year we could save millions of mosquitoes from dying needlessly of AIDS.",
-            "If you're going to have sex with a stranger …. always, always, always ask.",
+            "If you're going to have sex with a stranger … always, always, always ask.",
             "Women reach their sexual peak after 35 years; men reach theirs after about four minutes.",
             "I went to see a hypnotist the other night and I really enjoyed myself, which made me suspicious…",
             "I was filling out a questionnaire that said, Who would you most like to sleep with – anyone living or dead? I said Anyone living.",
