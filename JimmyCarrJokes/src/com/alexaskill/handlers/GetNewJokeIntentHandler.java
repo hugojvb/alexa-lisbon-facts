@@ -37,7 +37,7 @@ public class GetNewJokeIntentHandler implements RequestHandler {
         return input.getResponseBuilder()
                 .withShouldEndSession(false)
                 .withSpeech(speechText)
-                .withSimpleCard("Jokes", speechText)
+                .withSimpleCard("Jimmy Carr Jokes", speechText)
                 .build();
     }
 
