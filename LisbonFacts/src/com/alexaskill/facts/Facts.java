@@ -11,22 +11,22 @@ public class Facts {
         "Technically, Lisbon is not the capital of Portugal. There are no official documents that confirm that. " +
                 "Apparently it happened by chance when King Afonso the third settled with his court in Lisbon. That made " +
                 "sense of course, since Lisbon was already the largest and most important city in Portugal.",
-        "The raven is the symbol of Lisbon. According to the legend, two ravens travelled with the body of São Vicente, the " +
+        "The raven is the symbol of Lisbon. According to the legend, two ravens travelled with the body of Sao Vicente, the " +
                 "patron of Lisbon. Vicente Zaragoza was buried in the Algarve, near Sagres, since the year 303. King Afonso" +
                 " had the body dug up and shipped it to Lisbon. You can also find this story in the Lisbon coat of arms.",
-        "Many streets and squares in Lisbon are tiled in black and white. This is said to have its origins at São Vicente: " +
-                "white represents the clothing of the Crusaders, while black was the favorite colour of São Vicente.",
+        "Many streets and squares in Lisbon are tiled in black and white. This is said to have its origins at Sao Vicente: " +
+                "white represents the clothing of the Crusaders, while black was the favorite colour of Sao Vicente.",
         "Like Rome, Lisbon is built on seven hills, and is called cidade das sete colinas, the city on seven hills." +
                 " Yet there are many who doubt this: are there seven hills? Or is it eight? When do you call something a hill exactly?",
         "The Vasco da Gama bridge is the longest bridge in Europe with over 11 miles. Related fact: the Guinness Book Of " +
                 "Records writes about a dinner that 15000 people attended. Where was that dinner? Yep, on the Ponte Vasco" +
                 " da Gama, at the opening in 1998.",
-        "Another Guinness World Record in Lisbon: the Santa Engrácia Church (nowadays the Panteão Nacional) is considered " +
+        "Another Guinness World Record in Lisbon: the Santa Engracia Church (nowadays the Panteao Nacional) is considered " +
                 "the church with the longest time between start and completion. The work started in 1681 and was only " +
                 "finished in 1966. It's obvious that all kinds of things were going on during the intervening years: curses, " +
                 "dead architects and other priorities almost made this a prayer without end.",
         "The football club SL Benfica has the biggest fan club in the world. The number of official fans is estimated at more " +
-                "than 14 million. Of these 14 million there are 170 000 officially recognised as Sócio.",
+                "than 14 million. Of these 14 million there are 170 000 officially recognised as Socio.",
         "Lisbon was the first city in the world to import Guinness beer from Dublin. There are other documents that tell us " +
                 "that Guinness was already shipped to Lisbon in 1811.",
         "Portugal in general and Lisbon in particular is crazy about football! That is why there are no less than 214 " +
@@ -40,22 +40,22 @@ public class Facts {
         "The oceanarium in Lisbon is one of the largest aquariums in the world. The large basin has more than 5" +
                 " million water. The tank is 20 feet deep and has a diameter of roughly a hundred feet. You should " +
                 "definitely see that yourself.",
-        "Both the oldest bookstore in the world (Livraria Bertrand, 1732) and the smallest (Livraria do Simão, less" +
+        "Both the oldest bookstore in the world (Livraria Bertrand, 1732) and the smallest (Livraria do Simao, less" +
                 " than 35 square feet) can be found in Lisbon.",
-        "During the Second World War, Portugal was neutral. This made the country extremely attractive for (rich) " +
+        "During the Second World War, Portugal was neutral. This made the country extremely attractive for rich " +
                 "refugees. Especially the casino in Estoril, west of Lisbon, was a popular place. The fact that a " +
                 "lot of spies were sent there from all the intelligence services shouldn't come as a surprise. The " +
                 "most famous of them has to be Ian Fleming. Yes, that Ian Fleming.",
         "Speaking of which, did you know that the casino of Estoril is the largest casino in Europe?",
         "On Rossio square you can find the only public clothing mirror in the world (as far as we can tell). For " +
                 "real. You can use this mirror to fashion your clothes, or your hair, or whatever. On the mirror " +
-                "it says componha o nó da sua gravata, which translates to compose the knot of your tie.",
-        "Only five people in the world know the recipe of the Pastel de Belém, de originele Pastel de Nata. the " +
+                "it says componha o no da sua gravata, which translates to compose the knot of your tie.",
+        "Only five people in the world know the recipe of the Pastel de Belem, de originele Pastel de Nata. the " +
                 "original Pastel de Nata. They have memorized the recipe, there is no written version. These five" +
                 " men therefore never travel simultaneously with the same aircraft or car. Just imagine.",
-        "In Cafe Martinho Da Arcada, a classic Lisbon café, there are two tables where you can't sit down, they are " +
+        "In Cafe Martinho Da Arcada, a classic Lisbon cafe, there are two tables where you can't sit down, they are " +
                 "permanently reserved for two of Portugal's most famous writers: one for Fernando Pessoa and one for" +
-                " José Saramago. Incidentally, you can just join Pessoa outside of Cafe A Brasileira.",
+                " Jose Saramago. Incidentally, you can just join Pessoa outside of Cafe A Brasileira.",
         "Not only Ponte 25 de Abril seems to have its roots in San Francisco (Golden Gate bridge), city officials " +
                 "were looking at San Fran for another symbol of Lisbon: the well-known yellow trams are modeled on " +
                 "what they had in the mid-19th century in California. In 1873 the first tramway started in Lisbon," +
