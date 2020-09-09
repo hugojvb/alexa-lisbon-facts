@@ -17,7 +17,7 @@ import com.amazon.ask.dispatcher.request.handler.HandlerInput;
 import com.amazon.ask.dispatcher.request.handler.RequestHandler;
 import com.amazon.ask.model.Response;
 
-import com.alexaskill.jokes.Jokes;
+import com.alexaskill.facts.Facts;
 
 import java.util.Optional;
 
@@ -27,17 +27,16 @@ public class GetNewJokeIntentHandler implements RequestHandler {
 
     @Override
     public boolean canHandle(HandlerInput input) {
-        return input.matches(intentName("GetNewJokeIntent"));
+        return input.matches(intentName("GetNewFactIntent"));
     }
 
     @Override
     public Optional<Response> handle(HandlerInput input) {
-        int i = (int) Math.floor(Math.random() * Jokes.getCount(Jokes.getJokes()));
-        String speechText = Jokes.getJokes()[i];
+        int i = (int) Math.floor(Math.random() * Facts.getCount(Facts.getFacts()));
+        String speechText = Jokes.getFacts()[i];
         return input.getResponseBuilder()
                 .withSpeech(speechText)
-                .withReprompt(speechText)
-                .withSimpleCard("Jimmy Carr Jokes", speechText)
+                .withSimpleCard("Lisbon Facts", speechText)
                 .build();
     }
 

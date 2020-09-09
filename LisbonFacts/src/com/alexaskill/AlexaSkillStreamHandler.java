@@ -24,7 +24,7 @@ public class AlexaSkillStreamHandler extends SkillStreamHandler {
         return Skills.standard()
                 .addRequestHandlers(
                         new CancelandStopIntentHandler(),
-                        new GetNewJokeIntentHandler(),
+                        new GetNewFactIntentHandler(),
                         new HelpIntentHandler(),
                         new LaunchRequestHandler(),
                         new SessionEndedRequestHandler(),
