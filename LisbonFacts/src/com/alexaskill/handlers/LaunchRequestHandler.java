@@ -31,7 +31,7 @@ public class LaunchRequestHandler implements RequestHandler {
 
     @Override
     public Optional<Response> handle(HandlerInput input) {
-        String speechText = "Welcome, you can ask me about Lisbon.";
+        String speechText = "Welcome, you can ask me a fact about Lisbon.";
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 .withSimpleCard("Welcome", speechText)

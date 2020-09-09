@@ -33,7 +33,7 @@ public class GetNewJokeIntentHandler implements RequestHandler {
     @Override
     public Optional<Response> handle(HandlerInput input) {
         int i = (int) Math.floor(Math.random() * Facts.getCount(Facts.getFacts()));
-        String speechText = Jokes.getFacts()[i];
+        String speechText = Facts.getFacts()[i];
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 .withSimpleCard("Lisbon Facts", speechText)
