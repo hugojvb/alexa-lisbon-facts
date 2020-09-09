@@ -20,6 +20,8 @@ import com.amazon.ask.model.Response;
 
 import java.util.Optional;
 
+import com.alexaskill.facts.Facts;
+
 import static com.amazon.ask.request.Predicates.requestType;
 
 public class LaunchRequestHandler implements RequestHandler {
@@ -31,11 +33,11 @@ public class LaunchRequestHandler implements RequestHandler {
 
     @Override
     public Optional<Response> handle(HandlerInput input) {
-        String speechText = "Welcome, you can ask me a fact about Lisbon.";
+        int i = (int) Math.floor(Math.random() * Facts.getCount(Facts.getFacts()));
+        String speechText = "Here is a Lisbon fact: " + Facts.getFacts()[i];
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 .withSimpleCard("Welcome", speechText)
-                .withReprompt(speechText)
                 .build();
     }
 
