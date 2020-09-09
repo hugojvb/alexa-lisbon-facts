@@ -23,7 +23,7 @@ import java.util.Optional;
 
 import static com.amazon.ask.request.Predicates.intentName;
 
-public class GetNewJokeIntentHandler implements RequestHandler {
+public class GetNewFactIntentHandler implements RequestHandler {
 
     @Override
     public boolean canHandle(HandlerInput input) {

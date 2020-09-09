@@ -23,7 +23,7 @@ public class Facts {
                 " da Gama, at the opening in 1998.",
         "Another Guinness World Record in Lisbon: the Santa Engrácia Church (nowadays the Panteão Nacional) is considered " +
                 "the church with the longest time between start and completion. The work started in 1681 and was only " +
-                "finished in 1966. It’s obvious that all kinds of things were going on during the intervening years: curses, " +
+                "finished in 1966. It's obvious that all kinds of things were going on during the intervening years: curses, " +
                 "dead architects and other priorities almost made this a prayer without end.",
         "The football club SL Benfica has the biggest fan club in the world. The number of official fans is estimated at more " +
                 "than 14 million. Of these 14 million there are 170 000 officially recognised as Sócio.",
@@ -44,7 +44,7 @@ public class Facts {
                 " than 35 square feet) can be found in Lisbon.",
         "During the Second World War, Portugal was neutral. This made the country extremely attractive for (rich) " +
                 "refugees. Especially the casino in Estoril, west of Lisbon, was a popular place. The fact that a " +
-                "lot of spies were sent there from all the intelligence services shouldn’t come as a surprise. The " +
+                "lot of spies were sent there from all the intelligence services shouldn't come as a surprise. The " +
                 "most famous of them has to be Ian Fleming. Yes, that Ian Fleming.",
         "Speaking of which, did you know that the casino of Estoril is the largest casino in Europe?",
         "On Rossio square you can find the only public clothing mirror in the world (as far as we can tell). For " +
@@ -53,20 +53,20 @@ public class Facts {
         "Only five people in the world know the recipe of the Pastel de Belém, de originele Pastel de Nata. the " +
                 "original Pastel de Nata. They have memorized the recipe, there is no written version. These five" +
                 " men therefore never travel simultaneously with the same aircraft or car. Just imagine.",
-        "In Cafe Martinho Da Arcada, a classic Lisbon café, there are two tables where you can’t sit down, they are " +
-                "permanently reserved for two of Portugal’s most famous writers: one for Fernando Pessoa and one for" +
+        "In Cafe Martinho Da Arcada, a classic Lisbon café, there are two tables where you can't sit down, they are " +
+                "permanently reserved for two of Portugal's most famous writers: one for Fernando Pessoa and one for" +
                 " José Saramago. Incidentally, you can just join Pessoa outside of Cafe A Brasileira.",
         "Not only Ponte 25 de Abril seems to have its roots in San Francisco (Golden Gate bridge), city officials " +
                 "were looking at San Fran for another symbol of Lisbon: the well-known yellow trams are modeled on " +
                 "what they had in the mid-19th century in California. In 1873 the first tramway started in Lisbon," +
                 " and the trams were, appropriately, called Americanos.",
         "In ancient times it was quite normal to spot dolphins in the Tagus river. Nowadays it is a bit harder. This" +
-                " seems partly due to the pollution and I can imagine that all the bustle of shipping also doesn’t " +
-                "help. But, if you’re really lucky you can still see them. You will have a better chance if you go " +
+                " seems partly due to the pollution and I can imagine that all the bustle of shipping also doesn't " +
+                "help. But, if you're really lucky you can still see them. You will have a better chance if you go " +
                 "down south south a bit further: from Setubal there are several companies that organise trips on the water.",
         "Under the streets of Lisbon lies a genuine, 2000 year old Roman city, the Galerias Romanas. Really. With " +
                 "corridors, bridges and rooms. After the earthquake of 1755 this came to light during works there. " +
-                "And you won’t believe your eyes when you see how you enter the place: through a small square metal" +
+                "And you won't believe your eyes when you see how you enter the place: through a small square metal" +
                 " hatch in the middle of the street! Unfortunately you can only go in a few days a year, which makes" +
                 " planning your city trip a little more difficult."
     };
