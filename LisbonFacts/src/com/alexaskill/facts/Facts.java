@@ -46,7 +46,7 @@ public class Facts {
                 "refugees. Especially the casino in Estoril, west of Lisbon, was a popular place. The fact that a " +
                 "lot of spies were sent there from all the intelligence services shouldn't come as a surprise. The " +
                 "most famous of them has to be Ian Fleming. Yes, that Ian Fleming.",
-        "Speaking of which, did you know that the casino of Estoril is the largest casino in Europe?",
+        "Did you know that the casino of Estoril is the largest casino in Europe?",
         "On Rossio square you can find the only public clothing mirror in the world (as far as we can tell). For " +
                 "real. You can use this mirror to fashion your clothes, or your hair, or whatever. On the mirror " +
                 "it says componha o no da sua gravata, which translates to compose the knot of your tie.",
@@ -68,7 +68,27 @@ public class Facts {
                 "corridors, bridges and rooms. After the earthquake of 1755 this came to light during works there. " +
                 "And you won't believe your eyes when you see how you enter the place: through a small square metal" +
                 " hatch in the middle of the street! Unfortunately you can only go in a few days a year, which makes" +
-                " planning your city trip a little more difficult."
+                " planning your city trip a little more difficult.",
+        "There was a time when the city's cleaning men were nicknamed Almeidas. One hypothesis states that the " +
+                "cleaning crews once came from a fortified village called Almeida, located in the northern part of " +
+                "the country near the border with Spain. Another possible theory states the nickname came from a general " +
+                "support of city workers for Antonio Jose de Almeida, one of the country's short-term presidents at the " +
+                "beginning of the 20th century. ",
+        "The beautiful Belem Tower is one of the city's must-see landmarks and architectural wonders. It was built during " +
+                "the Age of Discoveries as a military fortification, but many people don't know that it was used as a political" +
+                " prison during the Liberal Wars of the 19th century.",
+        "Most people do know that locals from Lisbon are called Lisboetas, but many don't know the second nickname: Alfacinhas." +
+                " Alface is the Portuguese word for lettuce, and alfacinha means little lettuce'; the nickname is believed to " +
+                "stem from a time when residents had little else to eat than vegetables and preferred lettuce.",
+        "Fado is a music genre originated in Portugal, derived from the Latin word fatum - destiny. The locals often arrange " +
+                "concerts in the restaurants where tourists can enjoy tasty dinner and listen to this sad but beautiful tunes.",
+        "Lisbon has its own Cristo Rei (Christ the King statue) - a Catholic monument overlooking the city, standing on the left " +
+                "bank of the river. It was inspired by the Christ the Redeemer statue in Rio de Janeiro in Brazil. The statue " +
+                "commemorates Portugal's survival of the second world war.",
+        "The Largest Human National Flag was raised in 2006 at Lisbon's national stadium by 18788 people.",
+        "The Tagus river is Iberia's the largest river and its estuary at Lisbon, up to 14 kilometers wide, is said to be large enough to " +
+                "contain all the warships in the world."
+
     };
 
     public static String[] getFacts() {
